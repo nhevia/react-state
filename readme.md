@@ -1,9 +1,10 @@
-Different ways to set a global state in react, using a counter example (add, substract, add x amount).
+Different ways to set "global" state in React. Usage of a basic counter example (add, substract, add x amount).
 
-Each folder uses a different method/library to achieve the exact same result.
+The goal is to use the same pattern (visual and logical) to achieve the same results with the API given by each library.
 
-Current:
+Current state managers:
 
-- context-api
-- zustand
-- redux (toolkit)
+- [Context API](https://reactjs.org/docs/context.html) (Hooks)
+- [Zustand](https://github.com/pmndrs/zustand) (Unidirectional)
+- [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) (Unidirectional)
+- [Jotai](https://github.com/pmndrs/jotai) (Atomic)

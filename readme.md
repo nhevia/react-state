@@ -8,3 +8,4 @@ Current state managers:
 - [Zustand](https://github.com/pmndrs/zustand) (Unidirectional)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) (Unidirectional)
 - [Jotai](https://github.com/pmndrs/jotai) (Atomic)
+- [Valtio](https://github.com/pmndrs/valtio) (Bidirectional)
